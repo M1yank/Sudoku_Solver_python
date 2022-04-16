@@ -3,7 +3,7 @@
 A python script to solve sudoku using backtracking.
 
 Basically this script finds a empty space (0) in the sudoku and checks whether it is possible solution. If the guess is valid, we find next empty space and loop continues until we find no empty spaces. But lets say that our 3rd guess is not valid than it will than it will backtrack and iterate next guess and continue the loop.
-..
+
 # 📝Steps to run:
 1. Make sure that all 4 files are in one folder.
 2. Run main.py
